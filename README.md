@@ -8,6 +8,7 @@ Example Data Analysis Portfolio
 * It is assumed that most customers buy 2 or more products per basket/order, can be confirmed by the data.
 * Profit is 30% of the selling price. 
 
+![](https://github.com/tsayavon/Tiffany_Sayavong_Portfolio/blob/main/images/Discount%20Mart.png)
 
 
 # [Project 2: Green Destinations (HR Analytics)](https://public.tableau.com/views/HRAnalytics-GreenDestination/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -16,3 +17,4 @@ Green Destinations is a well known travel agency. The HR Director has recently n
 patterns. She has surveyed the staff of Green Destinations and provided you with the data. She would like to know what the attrition rate is (% of people who have left). 
 She would also like to know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
+![](https://github.com/tsayavon/Tiffany_Sayavong_Portfolio/blob/main/images/Green%20Destinations%20HR.png)
