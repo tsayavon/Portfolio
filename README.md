@@ -8,7 +8,7 @@ Example Data Analysis Portfolio
 * It is assumed that most customers buy 2 or more products per basket/order, can be confirmed by the data.
 * Profit is 30% of the selling price. 
 
-![](https://github.com/tsayavon/Tiffany_Sayavong_Portfolio/blob/main/images/Discount%20Mart.png)
+![](/images/Discount%20Mart.png)
 
 
 # [Project 2: Green Destinations (HR Analytics)](https://public.tableau.com/views/HRAnalytics-GreenDestination/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -19,4 +19,4 @@ She would also like to know if factors like age, years at the company and income
 
 I was able to create a Tableau dashboard from the data provided. There, we will see how many employees are employed at Green Destinations, the employee rate, the average job statisfaction, and average month income. The bargraphs show the attrition dates by age group, monthly income, average income per age, and employee count by years worked. 
 
-![](https://github.com/tsayavon/Tiffany_Sayavong_Portfolio/blob/main/images/Green%20Destinations%20HR.png)
+![](/images/Green%20Destinations%20HR.png)
