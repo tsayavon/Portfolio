@@ -17,4 +17,6 @@ Green Destinations is a well known travel agency. The HR Director has recently n
 patterns. She has surveyed the staff of Green Destinations and provided you with the data. She would like to know what the attrition rate is (% of people who have left). 
 She would also like to know if factors like age, years at the company and income play a part in determining if people will leave or not.
 
+I was able to create a Tableau dashboard from the data provided. There, we will see how many employees are employed at Green Destinations, the employee rate, the average job statisfaction, and average month income. The bargraphs show the attrition dates by age group, monthly income, average income per age, and employee count by years worked. 
+
 ![](https://github.com/tsayavon/Tiffany_Sayavong_Portfolio/blob/main/images/Green%20Destinations%20HR.png)
