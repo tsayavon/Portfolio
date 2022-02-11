@@ -18,8 +18,7 @@ import matplotlib.image as mpimg
 import warnings
 warnings.filterwarnings('ignore')
 
-![](/images/JettKilljoy.gif)
-
+![](JettKilljoy.gif)
 
 # About Valorant:
 Valorant is a free-to-play first-person hero shooter developed and published by Riot Games, for Microsoft Windows. First teased under the codename 
