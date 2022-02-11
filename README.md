@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available HERE! on github. (above) You'll be able to find projects that I have worked on as well as some that are still In Progress. I hope you take a look!
 
-- I hope one day to work in the Gaming Industry as a Data Analyst.
+- One day, I will kickstart my career in the Gaming Industry as a Data Analyst. 
 
 - ⚡ Fun fact **I accomplished the task of building my own gaming PC in 2021.** My consoles are now sitting on the shelves looking pretty.. and colllecting dust..
 
