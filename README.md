@@ -20,3 +20,6 @@ She would also like to know if factors like age, years at the company and income
 I was able to create a Tableau dashboard from the data provided. There, we will see how many employees are employed at Green Destinations, the employee rate, the average job satisfaction, and average month income. The bar graphs show the attrition dates by age group, monthly income, average income per age, and employee count by years worked. 
 
 ![](/images/Green%20Destinations%20HR.png)
+
+
+![](https://64.media.tumblr.com/c21e632e5aca51c733d4381d0355719b/668084d058b1237c-fd/s540x810/8eeab7e1001f01de9245437a71ee543de9888655.gifv)
