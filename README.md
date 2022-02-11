@@ -3,23 +3,24 @@ Example Data Analysis Portfolio
 
 
 
-# First ever Python project on the popular PC FPS game, [Valorant](https://playvalorant.com/en-us/). Just for fun and to put what I have self-learned to the test!
+# First ever Python project on the popular PC FPS game, 
+[Valorant](https://playvalorant.com/en-us/). Just for fun and to put what I have self-learned to the test!
 
 
 
-# Importing the necessary packages (Hidden Input/Output)
+#Importing the necessary packages (Hidden Input/Output)
 import gc
 import numpy as np
 import pandas as pd
 
-# Visualization packages
+#Visualization packages
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from matplotlib.offsetbox import TextArea, DrawingArea, OffsetImage, AnnotationBbox
 import matplotlib.image as mpimg
 %matplotlib inline
 
-# To Ignore any warnings
+#To Ignore any warnings
 import warnings
 warnings.filterwarnings('ignore')
 
