@@ -22,4 +22,3 @@ I was able to create a Tableau dashboard from the data provided. There, we will 
 ![](/images/Green%20Destinations%20HR.png)
 
 
-![](https://64.media.tumblr.com/c21e632e5aca51c733d4381d0355719b/668084d058b1237c-fd/s540x810/8eeab7e1001f01de9245437a71ee543de9888655.gifv)
