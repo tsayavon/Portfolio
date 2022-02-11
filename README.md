@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiffany</h1>
-<h3 align="center">A passionate gamer and an inspiring Data analyst from Delaware.</h3>
+<h3 align="center">A passionate gamer and an Aspiring Data Analyst from Delaware. I hope one day to work in the Gaming Industry as a Data Analyst</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsayavon&label=Profile%20views&color=0e75b6&style=flat" alt="tsayavon" /> </p>
