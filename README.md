@@ -3,7 +3,7 @@ Example Data Analysis Portfolio
 
 
 
-# First ever Python project on the popular PC FPS game, 
+First ever Python project on the popular PC FPS game, 
 [Valorant](https://playvalorant.com/en-us/). Just for fun and to put what I have self-learned to the test!
 
 
