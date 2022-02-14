@@ -6,7 +6,7 @@
 
 - 🔭 I have offically earned my **Google Data Analytics Certificate** on 02/13/2022. YAY!
 
-- 👨‍💻 All of my projects are available HERE! on github. (above) You'll be able to find projects that I have worked on as well as some that are still In Progress. I hope you take a look!
+- 👨‍💻 All of my projects are available HERE on github (above). You'll be able to find projects that I have worked on as well as some that are still In Progress. I hope you take a look!
 
 - One day, I will kickstart my career in the Gaming Industry as a Data Analyst. 
 
