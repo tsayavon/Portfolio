@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsayavon&label=Profile%20views&color=0e75b6&style=flat" alt="tsayavon" /> </p>
 
-- 🔭 I’m currently working on **my Google Data Analytics Certification from Merit America.**
+- 🔭 I have offically earned my **Google Data Analytics Certificate** on 02/13/2022. YAY!
 
 - 👨‍💻 All of my projects are available HERE! on github. (above) You'll be able to find projects that I have worked on as well as some that are still In Progress. I hope you take a look!
 
 - One day, I will kickstart my career in the Gaming Industry as a Data Analyst. 
 
-- ⚡ Fun fact **I accomplished the task of building my own gaming PC in 2021.** My consoles are now sitting on the shelves looking pretty.. and colllecting dust..
+- ⚡ Fun fact I accomplished the task of building my own gaming PC in 2021. My consoles are now sitting on the shelves looking pretty.. and colllecting dust..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
