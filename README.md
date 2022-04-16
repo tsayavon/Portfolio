@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tiffany</h1>
-<h3 align="center">A passionate gamer and an Aspiring Data Analyst from Delaware.</h3>
+<h3 align="center">A passionate gamer, an Aspiring Data Analyst, and Software Engineer from Delaware.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsayavon&label=Profile%20views&color=0e75b6&style=flat" alt="tsayavon" /> </p>
 
 - 🔭 I have offically earned my **Google Data Analytics Certificate** on 02/13/2022. YAY!
 
+- Currently enrolled in Nucamp's Complete Software Egineering Bootcamp and General Assembly's Software Engineer Immersive Program. 
+
 - 👨‍💻 All of my projects are available HERE on github (above). You'll be able to find projects that I have worked on as well as some that are still In Progress. I hope you take a look!
 
-- One day, I will kickstart my career in the Gaming Industry as a Data Analyst. 
+- One day, I will kickstart my career in the Gaming Industry as a Software Engineer. 
 
 - ⚡ Fun fact I accomplished the task of building my own gaming PC in 2021. My consoles are now sitting on the shelves looking pretty.. and colllecting dust..
 
